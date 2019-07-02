@@ -1,0 +1,1 @@
+Autofac in console app.
